@@ -4,7 +4,7 @@ alwaysApply: true
 ---
 This is a Webflow table that we have synced to GitHub.
 
-The data files for this table are stored in the format: JSON.
+The data files for this table are stored in the format: Markdown with YAML front matter.
 
 The table contains these fields:
 - Bio (webflow/RichText) metadata: {"required":false,"displayIcon":"article-medium","supportsRead":true,"supportsWrite":true,"richTextMetadata":{"isHtml":true},"allowsMultipleValues":false,"defaultValueIfAbsent":null}
