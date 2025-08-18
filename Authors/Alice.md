@@ -6,10 +6,10 @@ Email: null
 Twitter Profile Link: null
 Facebook Profile Link: null
 Type: BB
-Name: '1'
+Name: Alice
 Slug: '1'
 Webflow Status: null
-Last Updated: '2025-08-18T14:49:59.822Z'
+Last Updated: '2025-08-18T18:07:36.773Z'
 Created: '2025-06-23T21:05:08.240Z'
 Last Published: null
 __id: 6859c184a057e5015c0e9ef7

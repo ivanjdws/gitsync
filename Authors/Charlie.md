@@ -6,10 +6,10 @@ Email: null
 Twitter Profile Link: null
 Facebook Profile Link: null
 Type: null
-Name: '312312'
+Name: Charlie
 Slug: 312312-8796b
 Webflow Status: null
-Last Updated: '2025-08-12T15:14:14.353Z'
+Last Updated: '2025-08-18T18:07:53.432Z'
 Created: '2025-06-24T18:12:07.350Z'
 Last Published: null
 __id: 685aea77790f5530d372e9fb

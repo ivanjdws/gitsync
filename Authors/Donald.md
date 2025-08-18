@@ -6,10 +6,10 @@ Email: null
 Twitter Profile Link: null
 Facebook Profile Link: null
 Type: null
-Name: '234234234'
+Name: Donald
 Slug: '234234234'
 Webflow Status: null
-Last Updated: '2025-08-12T15:13:51.857Z'
+Last Updated: '2025-08-18T18:07:58.384Z'
 Created: '2025-06-24T18:13:44.549Z'
 Last Published: null
 __id: 685aead86aeb98bef25e0d6c
