@@ -4,7 +4,7 @@ alwaysApply: true
 ---
 This is a Webflow table that we have synced to GitHub.
 
-The data files for this table are stored in the format: JSON.
+The data files for this table are stored in the format: Markdown with YAML front matter.
 
 The table contains these fields:
 - author (webflow/ItemRef) metadata: {"required":false,"displayIcon":"flow-arrow","supportsRead":true,"supportsWrite":true,"foreignKeyMetadata":{"isForeignKey":true,"foreignKeyRemoteTableId":"68361d52e22252ffe253b8db"},"allowsMultipleValues":false,"defaultValueIfAbsent":null}
