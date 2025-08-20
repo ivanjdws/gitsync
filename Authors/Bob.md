@@ -1,5 +1,4 @@
 ---
-Bio: <p>kk</p>
 Bio Summary: kkk
 Picture: null
 Email: null
@@ -14,4 +13,4 @@ Created: '2025-06-23T21:05:14.594Z'
 Last Published: null
 __id: 6859c18a98c6c58dcdc1a294
 ---
-
+<p>kk</p>
