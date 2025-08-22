@@ -1,6 +1,8 @@
 ---
-author: null
 authors: []
+imageField: null
+fileField: null
+miltiImageField: []
 Name: Post 2
 Slug: post-1-1c772
 Webflow Status: Draft

@@ -1,13 +1,21 @@
 ---
-author: null
 authors:
   - 685aea77790f5530d372e9fb
   - 6859c184a057e5015c0e9ef7
   - 6859c18a98c6c58dcdc1a294
+imageField: >-
+  https://cdn.prod.website-files.com/683617b45228e29824f71cc5/68a7c7f4aeeccd989cd4e1bf_CLEWFreedom1.0_Black_480x480_5ca39e1f-a595-4dd7-8af1-ef9a6fa436c4_480x480.webp
+fileField: >-
+  https://cdn.prod.website-files.com/683617b45228e29824f71cc5/68a7c8077ce5296a1ca7dc6c_688ba7214b29b.pdf
+miltiImageField:
+  - >-
+    https://cdn.prod.website-files.com/683617b45228e29824f71cc5/68a7c7f895b7abe97ce5bbae_179900.jpg
+  - >-
+    https://cdn.prod.website-files.com/683617b45228e29824f71cc5/68a7c80f9c5730b364169cbd_Monosnap%20Lib%20Tech%20-%20TRS%20XC2%20BTX%202015%202025-08-04%2015-42-44.png
 Name: Post 1
 Slug: post-1
 Webflow Status: Draft
-Last Updated: '2025-08-20T22:34:58.931Z'
+Last Updated: '2025-08-22T01:29:55.242Z'
 Created: '2025-06-04T15:00:51.794Z'
 Last Published: null
 __id: 68405fa3f4a3067ed40456ea
